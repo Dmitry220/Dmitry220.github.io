@@ -1,0 +1,16 @@
+.wrapper{
+  margin: 30px auto;
+  max-width: 800px;
+}
+.box{
+  border: 1px black solid;
+  padding: 10px;
+}
+.form{
+  display: grid;
+  
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.btn-text{
+  white-space: nowrap;
+}
